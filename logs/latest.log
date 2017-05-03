@@ -1,0 +1,17 @@
+[09:31:01] [Server thread/INFO]: Starting minecraft server version 1.11.2
+[09:31:01] [Server thread/INFO]: Loading properties
+[09:31:01] [Server thread/WARN]: You specified a resource pack without providing a sha1 hash. Pack will be updated on the client only if you change the name of the pack.
+[09:31:01] [Server thread/INFO]: Default game type: SPECTATOR
+[09:31:01] [Server thread/INFO]: Generating keypair
+[09:31:01] [Server thread/INFO]: Starting Minecraft server on *:25565
+[09:31:01] [Server thread/INFO]: Using default channel type
+[09:31:03] [Server thread/INFO]: Preparing level "BooleanAlgebra"
+[09:31:03] [Server thread/INFO]: Preparing start region for level 0
+[09:31:04] [Server thread/INFO]: Done (1.144s)! For help, type "help" or "?"
+[09:31:06] [Server thread/INFO]: Stopping server
+[09:31:06] [Server thread/INFO]: Saving players
+[09:31:06] [Server thread/INFO]: Saving worlds
+[09:31:06] [Server thread/INFO]: Saving chunks for level 'BooleanAlgebra'/Overworld
+[09:31:06] [Server thread/INFO]: Saving chunks for level 'BooleanAlgebra'/Nether
+[09:31:06] [Server thread/INFO]: Saving chunks for level 'BooleanAlgebra'/The End
+[09:31:06] [Server Shutdown Thread/INFO]: Stopping server
